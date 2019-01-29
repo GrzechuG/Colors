@@ -1,6 +1,6 @@
 # Colors
 
-This script makes 'paints' any letter (almost) you type in your terminal in another color.
+This script 'paints' every letter you type in your terminal in another color.
 <br>
 
 # Execution
